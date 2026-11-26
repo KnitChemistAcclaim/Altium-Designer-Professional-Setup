@@ -1,0 +1,24 @@
+{
+  "repo": "altium-designer-professional-setup",
+  "product": "Altium Designer Professional Setup",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "altium-designer",
+    "pcb-design",
+    "electronics-design",
+    "schematic-capture",
+    "eda",
+    "how-to-install-altium-designer",
+    "how-to-setup-altium-designer",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Altium Designer Professional Setup"
+}
